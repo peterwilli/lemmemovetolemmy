@@ -36,3 +36,9 @@ Migrate all dreams by testuser on Reddit /r/dreams to testuser2 Lemmy "dreaming"
 ```
 npx lemmemovetolemmy --instance-url https://lemmy.emerald.show --username testuser2 --subreddit Dreams --reddit-username testuser --lemmy-community-name dreaming --password=secret
 ```
+
+# Sponsoring development
+
+If my tool was helpful to you, please consider supporting my channel on [Patreon](https://patreon.com/emerald_show), with discounts and lots of behind the scenes footage on dev streams where projects such as this one come to life.
+
+Hope to see you there!
