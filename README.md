@@ -2,6 +2,14 @@
 
 Easily move your own posts from any subreddit to any Lemmy community!
 
+## ⚠️ Word of warning ⚠️
+
+Be careful when using this tool in communities that aren't running on your own instance, some communities like Beehaw will get you banned for spamming. Even if the community or instance is meant for archiving, always ask the mods for permission first!
+
+I used this tool on my own instance to archive my dream content, which meant that nobody was going to stop me.
+
+Thanks to [@mifuyne@beehaw.org](https://lemmy.emerald.show/comment/3871) for bringing this to my attention!
+
 ## How it works
 
 We call the Reddit API to fetch any post made by a given username (you) and then call the Lemmy instance API in question to repost the post on Lemmy.
