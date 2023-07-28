@@ -1,6 +1,6 @@
 {
   "name": "lemmemovetolemmy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It will send your posts to any given Lemmy Instance or Community",
   "main": "main.js",
   "bin": "main.mjs",
